@@ -9,7 +9,7 @@ Currently, I'm pursuing a degree in **Information Systems** at the **University 
 ## Key Skills
 
 - **Programming Languages**: Python, SQL  
-- **Tools & Frameworks**: Tableau, Power BI  
+- **Tools**: Tableau, Power BI, Domo, Salesforce  
 - **Technologies**: Machine Learning, Data Visualization
 
 ## Projects
