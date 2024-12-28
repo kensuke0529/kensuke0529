@@ -16,10 +16,11 @@ Currently, I'm pursuing a degree in **Information Systems** at the **University 
 
 Here are a few projects I’ve been working on recently:
 
-### Food Delivery App Sales Analysis
+### [Food Delivery App Sales Analysis](https://github.com/kensuke0529/Food-Delivery-App-Sales-Analysis-Project)
 
 - Analyzed weekly revenue and profit, meal-specific profitability, daily profit trends, retention rates, and ARPU (Average Revenue Per User) using **SQL** and **Python**. This project helped uncover key performance indicators to track and optimize sales and customer engagement.
 
-### Banking Churn Analysis
+### [Banking Churn Analysis](https://github.com/kensuke0529/Banking-Churn-project)
 
 - Designed an interactive **Tableau** dashboard that visualizes customer churn rates across various dimensions such as **country**, **age**, **balance**, **credit score**, and **tenure**. The dashboard provides insights into customer behavior, helping to identify factors influencing churn and improve retention strategies.
+
