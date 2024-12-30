@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! I'm **Kensuke**, an aspiring **Business Analyst** and **Data Scientist** with a passion for **data visualization**. I love learning new concepts and applying them to solve real-world challenges.
+Hi there! I'm **Kensuke**, an aspiring **Business Analyst** and **Data Analyst** with a passion for **data visualization**. I love learning new concepts and applying them to solve real-world challenges.
 
 Currently, I'm pursuing a degree in **Information Systems** at the **University of Utah**, and I'm actively seeking internships and job opportunities as a **Business Analyst** or **Data Analyst**. I am continuously learning and improving my skills in **Python** and **SQL**. 
 
