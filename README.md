@@ -22,5 +22,5 @@ Here are a few projects I’ve been working on recently:
 
 ### [Banking Churn Analysis](https://github.com/kensuke0529/Banking-Churn-project)
 
-- Designed an interactive **Tableau** dashboard that visualizes customer churn rates across various dimensions such as **country**, **age**, **balance**, **credit score**, and **tenure**. The dashboard provides insights into customer behavior, helping to identify factors influencing churn and improve retention strategies.
+- Designed an interactive **EXcel** dashboard that visualizes customer churn rates across various dimensions such as **country**, **age**, **balance**, **credit score**, and **tenure**. The dashboard provides insights into customer behavior, helping to identify factors influencing churn and improve retention strategies.
 
