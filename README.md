@@ -44,7 +44,7 @@ Here are a few projects I’ve been working on recently:
 * Analyzed 20K sales records in **SQL (PostgreSQL)** and Python to identify key business trends and customer behaviors by evaluating KPIs including weekly profits, retention rate, and profit margin.
 * Provided a detailed descriptive report summarizing findings for effective communication with teams.
 
-### 5.[Banking Churn Rate Analysis and Prediction](https://github.com/kensuke0529/Banking-Churn-project)
+### 5. [Banking Churn Rate Analysis and Prediction](https://github.com/kensuke0529/Banking-Churn-project)
 **Key Contribution: Churn Analysis & Prediction, leveraging EDA, Excel Dashboards, and Predictive Modeling for Business Insight.**
 December 2024
 
